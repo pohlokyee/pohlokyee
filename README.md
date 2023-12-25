@@ -1,4 +1,4 @@
-<h1 align="center"> ### Hi 👋, I'm Poh Lok Yee</h1>
+<h1 align="center">Hi 👋, I'm Poh Lok Yee</h1>
 <h3 align="center">A passionate frontend developer from Malaysia</h3>
 
 - 🔭 I’m currently taking course of **computer science (Data Engineering)**
