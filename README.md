@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Poh Lok Yee</h1>
-<h3 align="center">A passionate data engineering student from Malaysia</h3>
+<h3 align="center">A passionate data engineering student from UTM Johor, Malaysia</h3>
 
 - 🔭 I’m currently taking course of **computer science (Data Engineering)**
 
