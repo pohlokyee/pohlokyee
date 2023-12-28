@@ -7,11 +7,7 @@
 
 - 📫 How to reach me **poh.yee@graduate.utm.my**
 
-<br/>  
-
-
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<br/> 
 
 </td><td valign="top" width="33%">
 
