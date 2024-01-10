@@ -48,8 +48,5 @@
 </div>
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=pohlokyee&&style=flat-square" align="center" />
-  
-<br/>  
-<img src="https://github.com/pohlokyee/pohlokyee/blob/main/pic/snake.svg" alt="Snake animation" />
 </div>
 <br />
