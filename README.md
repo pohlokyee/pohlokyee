@@ -11,11 +11,7 @@
 
 👈🏻 **Click my photo to see my E-Portfolio !!**
 
-
-
-
-
-
+<br />
 
 ## Connect with me  
 <a href="https://instagram.com/holypolok" target="_blank">
