@@ -29,7 +29,10 @@
 
 
 ## Github Stats  
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pohlokyee&theme=highcontrast" height="180em" />
+<div align="center">
+   
+![pohlokyee's Stats](https://github-readme-stats.vercel.app/api?username=pohlokyee&theme=vue&show_icons=true&hide_border=false&count_private=true)![pohlokyee's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pohlokyee&theme=vue&show_icons=true&hide_border=false&layout=compact)
+
 </div>
 <br/>  
 
@@ -45,10 +48,8 @@
 </div>
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=pohlokyee&&style=flat-square" align="center" />
-</div>  
   
 <br/>  
-
+<img src="https://github.com/pohlokyee/pohlokyee/blob/main/pic/snake.svg" alt="Snake animation" />
+</div>
 <br />
-
-----
