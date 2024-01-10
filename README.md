@@ -10,7 +10,7 @@
 
 📫 You can reach me at **poh.yee@graduate.utm.my**
 
-👉 **Click here photo to see my E-Portfolio !!**
+👉 **Click here to see my E-Portfolio !!**
 
 <br />
 
