@@ -1,4 +1,4 @@
-<img align="left" width="220" src="https://www.rd.com/wp-content/uploads/2018/02/25_Hilarious-Photos-that-Will-Get-You-Through-the-Week_280228817_Doty911.jpg" />
+<img align="left" width="200" src="https://github.com/pohlokyee/pohlokyee/blob/main/pic/IMG-20231201-WA0007.jpg" />
 <h2 align="center">Hi 👋, I'm Poh Lok Yee - Data Engineering Year 1 student </h1>
 
 🏫 I’m currently taking course of **computer science (SECPH - Data Engineering)** at [UTM Johor](https://www.utm.my/)
