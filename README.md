@@ -10,7 +10,7 @@
 
 📫 You can reach me at **poh.yee@graduate.utm.my**
 
-👉 **Click [here](pohlokyee/pohlokyee.github.io) to see my E-Portfolio !!**
+👉 **Click [here](https://pohlokyee.github.io/) to see my E-Portfolio !!**
 
 <br />
 
