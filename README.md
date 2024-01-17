@@ -28,6 +28,24 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)  
 
 
+## 🎓Education
+**Bachelor of Computer Science (Data Engineering)** - University Technology Malaysia Johor
+
+**Foundation in Physical Science** - University Technology Malaysia Kuala Lumpur
+
+**SPM** - SMK Seri Kembangan 
+
+
+
+## Courses
+[Digital Logic](https://github.com/pohlokyee/SECPH-Y1-SEM1/tree/3fc592183730d2d55bae1155442a8282aa5b1960/Digital%20Logic)
+
+[Programming Technique I](https://github.com/pohlokyee/SECPH-Y1-SEM1/tree/3fc592183730d2d55bae1155442a8282aa5b1960/Programming%20Technique%20I)
+
+[Discrete Struture](https://github.com/pohlokyee/SECPH-Y1-SEM1/tree/3fc592183730d2d55bae1155442a8282aa5b1960/Discrete%20Structure)
+
+[Technology and Information System](https://github.com/pohlokyee/SECPH-Y1-SEM1/tree/main/Technology%20and%20Information%20System)
+
 ## Github Stats  
 <div align="center">
    
