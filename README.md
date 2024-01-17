@@ -36,7 +36,7 @@
 - CGPA : 3.97
 
 **SPM** - SMK Seri Kembangan 
-- Result: 10A
+- Result: 10As
 
 
 
