@@ -37,7 +37,7 @@
 
 
 
-## Courses
+## 📚Courses
 [Digital Logic](https://github.com/pohlokyee/SECPH-Y1-SEM1/tree/3fc592183730d2d55bae1155442a8282aa5b1960/Digital%20Logic)
 
 [Programming Technique I](https://github.com/pohlokyee/SECPH-Y1-SEM1/tree/3fc592183730d2d55bae1155442a8282aa5b1960/Programming%20Technique%20I)
@@ -46,7 +46,7 @@
 
 [Technology and Information System](https://github.com/pohlokyee/SECPH-Y1-SEM1/tree/main/Technology%20and%20Information%20System)
 
-## Github Stats  
+## 📊Github Stats  
 <div align="center">
    
 ![pohlokyee's Stats](https://github-readme-stats.vercel.app/api?username=pohlokyee&theme=vue&show_icons=true&hide_border=false&count_private=true)![pohlokyee's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pohlokyee&theme=vue&show_icons=true&hide_border=false&layout=compact)
