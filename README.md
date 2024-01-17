@@ -33,7 +33,10 @@
 
 **Foundation in Physical Science** - University Technology Malaysia Kuala Lumpur
 
+- CGPA : 3.97
+
 **SPM** - SMK Seri Kembangan 
+- Result: 10A
 
 
 
