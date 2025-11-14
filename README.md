@@ -39,16 +39,6 @@
 - Result: 10As
 
 
-
-## 📚Courses
-[Digital Logic](https://github.com/pohlokyee/SECPH-Y1-SEM1/tree/842ab08e6611ea72612eb268b2f106f1ba31d24b/Digital%20Logic)
-
-[Programming Technique I](https://github.com/pohlokyee/SECPH-Y1-SEM1/tree/842ab08e6611ea72612eb268b2f106f1ba31d24b/Programming%20Technique%20I)
-
-[Discrete Struture](https://github.com/pohlokyee/SECPH-Y1-SEM1/tree/842ab08e6611ea72612eb268b2f106f1ba31d24b/Discrete%20Structure)
-
-[Technology and Information System](https://github.com/pohlokyee/SECPH-Y1-SEM1/tree/842ab08e6611ea72612eb268b2f106f1ba31d24b/Technology%20and%20Information%20System)
-
 ## 📊Github Stats  
 <div align="center">
    
