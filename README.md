@@ -39,21 +39,6 @@
 - Result: 10As
 
 
-## 📊Github Stats  
-<div align="center">
-   
-![pohlokyee's Stats](https://github-readme-stats.vercel.app/api?username=pohlokyee&theme=vue&show_icons=true&hide_border=false&count_private=true)![pohlokyee's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pohlokyee&theme=vue&show_icons=true&hide_border=false&layout=compact)
-
-</div>
-<br/>  
-
-<div align="center">
-<a href="https://github.com/pohlokyee" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="40" height="40" /> </picture> </a> 
-<a href="https://instagram.com/holypolok" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="40" height="40" /> </picture> </a> 
-<a href="https://www.linkedin.com/in/pohlokyee/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40" height="40" /> </picture> </a>
-<a href="https://discord.gg/https://discord.com/invite/mN6vsbK2" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40" height="40" /> </picture> </a>
-</div>
-<div align="center">
 
  ⬆️**Connect Me At**⬆️
 </div>
