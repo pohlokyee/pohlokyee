@@ -1,6 +1,6 @@
 <br />
 <img align="right" alt="Waving" width=280px src="https://github.com/pohlokyee/pohlokyee/blob/main/pic/hello.gif">
-<h2 align="center">Hi 👋, I'm Poh Lok Yee - Data Engineering Year 1 student </h1>
+<h2 align="center">Hi 👋, I'm Poh Lok Yee - Data Engineering Year 3 student </h1>
 
 🏫 I’m currently taking course of **computer science (Data Engineering)** at [UTM](https://www.utm.my/)
    
