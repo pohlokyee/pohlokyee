@@ -1,62 +1,109 @@
-<br />
-<img align="right" alt="Waving" width=280px src="https://github.com/pohlokyee/pohlokyee/blob/main/pic/hello.gif">
-<h2 align="center">Hi 👋, I'm Poh Lok Yee - Data Engineering Year 3 student </h1>
+<img src="https://media.tenor.com/eRH78p5p0XpAAAAC/anime-girl.gif" width="180" alt="Zutomayo Uniguri Dance" align="right" />
 
-🏫 I’m currently taking course of **computer science (Data Engineering)** at [UTM](https://www.utm.my/)
-   
-🏡 Selangor girl.  I'm aiming to have my internship and jobs at KL area.
-
-❤️ Interest: Fishing, Listening Music, Japanese Culture
-
-📫 You can reach me at **poh.yee@graduate.utm.my**
-
-👉 **Click [here](https://pohlokyee.github.io/) to see my E-Portfolio !!**
-
+<h1>Polok Here~ 👋</h1>
+<h3>🚀 Data Engineering Student</h3>
 <br />
 
+<p align="left">
+  <a href="https://github.com/pohlokyee" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="40" height="40" />
+    </picture>
+  </a>&nbsp;
+  <a href="https://instagram.com/holypolok" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="undefined" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" />
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="40" height="40" />
+    </picture>
+  </a>&nbsp;
+  <a href="https://www.linkedin.com/in/pohlokyee/" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40" height="40" />
+    </picture>
+  </a>&nbsp;
+  <a href="https://discord.gg/mN6vsbK2" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" />
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="40" height="40" />
+    </picture>
+  </a>
+</p>
+
+<br clear="right" />
+
+---
+
+## 👩‍💻 About Me
+
+* 🎓 Currently pursuing a **Bachelor of Computer Science (Data Engineering)** at Universiti Teknologi Malaysia (UTM).
+* 🧠 Passionate about data pipelines and **a proud beginner in the art of automation**, driven by the ultimate goal of making my computer do 100% of my manual chores.
+*  🎵 An **outdated J-Pop lover** who keeps **Aimer** and **Zutomayo** on an endless loop.
+* 💼 **KL girl currently seeking a Data Engineering / Automation internship in KL!** 🚀
+
+---
 
 
+## 🛠️ Tech Stack & Tools
 
-## 💻 Tech Stack
-**Languages**  
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="32" height="32" alt="C++" /></h2> 
-<a href="https://www.python.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="32" height="32" alt="Python" />
-</a>
-<a href="https://www.java.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="32" height="32" alt="Java" />
-</a>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" width="55" height="55"/> &nbsp;&nbsp;
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="55" height="55"/> &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/databricks.svg" alt="Databricks" width="55" height="55" style="filter: invert(34%) sepia(87%) saturate(2250%) dig-by-side;"/> &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/alteryx.svg" alt="Alteryx" width="55" height="55"/> &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/uipath/FA4616" alt="UiPath" width="55" height="55"/> &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="55" height="55"/> &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="55" height="55"/> &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="55" height="55"/> &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="55" height="55"/> &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="55" height="55"/> &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="Blade" width="55" height="55"/> &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SSMS" width="55" height="55"/> &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="55" height="55"/> &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="55" height="55"/> &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="55" height="55"/> &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="55" height="55"/> &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="55" height="55"/>
+</p>
 
+---
 
-**Tools**  
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)  
-![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)  
+## 🚀 Featured Engineering Projects
 
+### 🔄 Automated Cloud Data Pipeline (Medallion Architecture)
+> *End-to-End Enterprise Data Infrastructure*
+*   **Description:** Developed a robust, scalable cloud data engineering pipeline to ingest, clean, and transform relational database files.
+*   **Architecture:** Implemented a multi-layered Medallion setup, systematically moving data tracks through raw ingestion (**Bronze**), data validation (**Silver**), and highly optimized star-schema business modeling (**Gold**).
+*   **Tech Stack:** `Azure Data Factory` | `Databricks` | `Azure Synapse` | `SQL` | `Power BI`
 
-## 🎓Education
-**Bachelor of Computer Science (Data Engineering)** - University Technology Malaysia Johor
+### 🤖 Intelligent Invoice Processing System (RPA & AI)
+> *Document Automation Loop with Human-in-the-Loop Validation*
+*   **Description:** Built a functional robotic process automation workflow designed to automatically capture, extract, and route incoming transactional documents.
+*   **Key Feature:** Integrated a foundational AI Agent capable of reading text variations from raw invoices, passing the extracted datasets into a secure human approval web utility.
+*   **Tech Stack:** `UiPath Studio Web` | `Integration Service` | `AI Routing` | `Approval Apps`
 
-**Foundation in Physical Science** - University Technology Malaysia Kuala Lumpur
+### 🏦 KADA Web System Development
+> *Full-Stack Member Registration & Loan Management Platform*
+*   **Description:** Served as a Project System Developer to design, implement, and deploy a secure full-stack web tool for digital member registration and loan application tracking.
+*   **Tech Stack:** `PHP` | `Laravel Framework` | `MySQL Database`
 
-- CGPA : 3.97
+---
 
-**SPM** - SMK Seri Kembangan 
-- Result: 10As
+## 👥 Leadership & Extracurriculars
 
+*   **UTM 24 Festive Drums Club (Committee Member & General Affairs):** Managed club inventory, handled logistical challenges, and coordinated real-world operations under tight schedules.
+*   **Project Management Skills:** Adept at handling stress, defining project execution timelines, keeping project groups organized, and sharing workloads evenly based on individual strengths.
 
-<div align="center">
-<a href="https://github.com/pohlokyee" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="40" height="40" /> </picture> </a> 
-<a href="https://instagram.com/holypolok" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="40" height="40" /> </picture> </a> 
-<a href="https://www.linkedin.com/in/pohlokyee/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40" height="40" /> </picture> </a>
-<a href="https://discord.gg/https://discord.com/invite/mN6vsbK2" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40" height="40" /> </picture> </a>
-</div>
-<div align="center">
+---
 
- ⬆️**Connect Me At**⬆️
-</div>
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=pohlokyee&&style=flat-square" align="center" />
-</div>
-<br />
+### 📈 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=pohlokyee&show_icons=true&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pohlokyee&layout=compact&theme=tokyonight" height="150" />
+</p>
