@@ -1,14 +1,19 @@
-<!-- RIGHT SIDE: Dancing Zutomayo Hedgehog -->
-<img src="pic/uniguri-party.gif" width="200" alt="Zutomayo Uniguri Dance" align="right" />
-
 <!-- LEFT SIDE: Introduction (Using a span hack to block GitHub's header line) -->
 <h1 style="border: 0;"><span style="border-bottom: none;">Polok Here~ 👋</span></h1>
+
+<!-- RIGHT SIDE: Dancing Zutomayo Hedgehog (Placed right here so it aligns with the quote and links below the line) -->
+<img src="pic/uniguri-party.gif" width="200" alt="Zutomayo Uniguri Dance" align="right" />
 
 <!-- Zutomayo Quote Block -->
 <blockquote>
   <i>"Let's dance through the midnight errors and wait for the sun to overwrite our mistakes."</i> — <b>Zutomayo</b>
 </blockquote>
 <br>
+
+<!-- Website Link Line -->
+<p>🚨 <a href="https://pohlokyee.github.io/"><b>Click here to see my website</b></a> (Somewhere out there, a UI/UX designer is crying because of it, but it works!).</p>
+<br>
+
 <!-- Single-row layout: Text, pointing emoji, and logos all aligned together -->
 <p align="left" style="display: flex; align-items: center; flex-wrap: wrap; gap: 10px;">
   <b>✨ Connect with me through 👉</b>&nbsp;&nbsp;
@@ -41,7 +46,8 @@
     </picture>
   </a>
 </p>
-<!-- This clears the alignment so your About Me section stays safely underneath the GIF -->
+
+<!-- This clears the alignment so your next sections stay safely underneath the GIF -->
 <br clear="right" />
 
 ---
