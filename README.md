@@ -92,22 +92,22 @@
     <!-- Project 1 (Top Left) -->
     <td valign="top" style="width: 50%; border: none; padding: 15px;">
       <h3>🔄 Automated Cloud Data Pipeline</h3>
-      <p><i>End-to-End Enterprise Data Infrastructure (Medallion Architecture)</i></p>
+      <p><i>End-to-End Enterprise Data Infrastructure</i></p>
       <ul>
-        <li><b>Description:</b> Developed a robust, scalable cloud data engineering pipeline to ingest, clean, and transform relational database files.</li>
-        <li><b>Architecture:</b> Multi-layered Medallion setup, moving data tracks through raw ingestion (<b>Bronze</b>), data validation (<b>Silver</b>), and optimized star-schema business modeling (<b>Gold</b>).</li>
+        <li> Built a scalable, multi-layered Medallion pipeline (Bronze, Silver, Gold) in Azure to ingest, transform, and model relational data into an optimized star schema for Power BI dashboards.</li>
         <li><b>Tech Stack:</b> <code>Azure Data Factory</code> | <code>Databricks</code> | <code>Azure Synapse</code> | <code>SQL</code> | <code>Power BI</code></li>
       </ul>
+      <p>👉 <a href="https://github.com/pohlokyee/Academic-Project/tree/main/Year3-Sem2/Special%20Topic%20Data%20Engineering/Tutorial%201%20Azure%20Pipeline" target="_blank"><b>Click to know more</b></a></p>
     </td>
     <!-- Project 2 (Top Right) -->
     <td valign="top" style="width: 50%; border: none; padding: 15px;">
       <h3>🤖 Intelligent Invoice Processing System</h3>
       <p><i>Document Automation Loop with Human-in-the-Loop Validation</i></p>
       <ul>
-        <li><b>Description:</b> Built a functional robotic process automation workflow designed to automatically capture, extract, and route incoming transactional documents.</li>
-        <li><b>Key Feature:</b> Integrated a foundational AI Agent capable of reading text variations from raw invoices, passing the extracted datasets into a secure human approval web utility.</li>
+        <li> Developed an automated RPA workflow integrating a foundational AI Agent to dynamically extract text variations from raw invoices and route them through a secure human-approval app.</li>
         <li><b>Tech Stack:</b> <code>UiPath Studio Web</code> | <code>Integration Service</code> | <code>AI Routing</code> | <code>Approval Apps</code></li>
       </ul>
+      <p>👉 <a href="https://www.linkedin.com/posts/pohlokyee_just-built-my-first-intelligent-invoice-ugcPost-7466531945682874368-Da17/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEhOzuoB6KAPNSWUt0Wwm1_yYBY6q_F3QoY" target="_blank"><b>Click to know more</b></a></p>
     </td>
   </tr>
   <!-- ROW 2 -->
@@ -115,22 +115,22 @@
     <!-- Project 3 (Bottom Left) -->
     <td valign="top" style="width: 50%; border: none; padding: 15px;">
       <h3>🏦 KADA Web System Development</h3>
-      <p><i>Full-Stack Member Registration & Loan Management Platform</i></p>
+      <p><i>Full-Stack Member Registration & Loan Platform</i></p>
       <ul>
-        <li><b>Description:</b> Served as a Project System Developer to design, implement, and deploy a secure full-stack web tool for digital member registration and loan application tracking.</li>
-        <li><b>Key Feature:</b> Built intuitive user dashboards for applicant tracking alongside a structured database backend to keep sensitive data transactions safe and consistent.</li>
+        <li> Programmed a secure, full-stack digital web tool featuring interactive user dashboards and a relational backend for real-time tracking of member sign-ups and loan applications.</li>
         <li><b>Tech Stack:</b> <code>PHP</code> | <code>Laravel Framework</code> | <code>MySQL Database</code></li>
       </ul>
+      <p>👉 <a href="https://github.com/pohlokyee/KADA-eServe" target="_blank"><b>Click to know more</b></a></p>
     </td>
-    <!-- Project 4 (Bottom Right - Placeholder for your next project!) -->
+    <!-- Project 4 (Bottom Right) -->
     <td valign="top" style="width: 50%; border: none; padding: 15px;">
-      <h3>📊 Your Next Awesome Project</h3>
-      <p><i>Short Catchy Subtitle Describing the Main Goal</i></p>
+      <h3>📊 MARA Attendance System</h3>
+      <p><i>Centralized Institutional Attendance & Reporting Tool</i></p>
       <ul>
-        <li><b>Description:</b> A brief 1-2 sentence overview explaining the core problem this project addresses and how it delivers a solution.</li>
-        <li><b>Key Feature:</b> Highlight a killer technical accomplishment, optimization, or unique pipeline aspect you implemented here.</li>
-        <li><b>Tech Stack:</b> <code>Tool 1</code> | <code>Tool 2</code> | <code>Language</code> | <code>Framework</code></li>
+        <li>Designed a digital system for MARA institutions to replace manual tracking. It handles secure auth, automated status logging, discipline issue reporting, scheduling conflict lookups, and visual statistical overviews.</li>
+        <li><b>Tech Stack:</b> <code>Flutter</code> | <code>Firebase</code> | <code>Dart</code></li>
       </ul>
+      <p>👉 <a href="https://github.com/ZHIMING04/mara-attendance-system" target="_blank"><b>Click to know more</b></a></p>
     </td>
   </tr>
 </table>
