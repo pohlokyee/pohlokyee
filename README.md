@@ -11,7 +11,7 @@
 <br>
 <!-- Single-row layout: Text, pointing emoji, and logos all aligned together -->
 <p align="left" style="display: flex; align-items: center; flex-wrap: wrap; gap: 10px;">
-  <b>✨ Let's be friends! 👉</b>&nbsp;&nbsp;
+  <b>✨ Connect with me through 👉</b>&nbsp;&nbsp;
   <a href="https://github.com/pohlokyee" target="_blank" rel="noreferrer">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
@@ -51,7 +51,6 @@
 * 🧠 Passionate about data pipelines and **a proud beginner in the art of automation**, driven by the ultimate goal of making my computer do 100% of my manual chores.
 *  🎵 An **outdated J-Pop lover** who keeps **Aimer** and **Zutomayo** on an endless loop.
 * 💼 **KL girl currently seeking a Data Engineering / Automation internship in KL!** 🚀
-
 ---
 
 
