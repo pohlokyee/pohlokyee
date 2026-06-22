@@ -55,8 +55,10 @@
 
 * 🎓 Currently pursuing a **Bachelor of Computer Science (Data Engineering)** at Universiti Teknologi Malaysia (UTM).
 * 🧠 Passionate about data pipelines and **a proud beginner in the art of automation**, driven by the ultimate goal of making my computer do 100% of my manual chores.
-*  🎵 An **outdated J-Pop lover** who keeps **Aimer** and **Zutomayo** on an endless loop.
-* 💼 **KL girl currently seeking a Data Engineering / Automation internship in KL!** 🚀
+* 👥 Highly organized team collaborator adept at **managing high-stress project timelines, coordinating operational workflows, and maximizing team strengths through clear communication.**
+* 🗣️ **Multilingual Speaker:** Proficient in **English, Chinese, Malay, Cantonese, and Hakka**.
+* 🎵 An **outdated J-Pop lover** who keeps **Aimer** and **Zutomayo** on an endless loop.
+* 💼 **Incoming Data Engineering & Automation Intern at DHL Asia Pacific Shared Service Centre (APSSC)!** 🚀
 ---
 
 
@@ -164,7 +166,7 @@
 
 ---
 
-## 👥 Leadership & Extracurriculars
+## <b>👥 Leadership & Extracurriculars</b>
 
 *   **UTM 24 Festive Drums Club (Committee Member & General Affairs):** Managed club inventory, handled logistical challenges, and coordinated real-world operations under tight schedules.
 *   **Project Management Skills:** Adept at handling stress, defining project execution timelines, keeping project groups organized, and sharing workloads evenly based on individual strengths.
