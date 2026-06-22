@@ -115,6 +115,10 @@
 
 ## 🚀 Featured Engineering Projects
 
+<p align="left">
+  Feel free to access all my academic projects <a href="https://github.com/pohlokyee/Academic-Project" target="_blank" rel="noreferrer"><b>here</b></a>.
+</p>
+
 <table border="0" cellpadding="10" cellspacing="0" style="width: 100%; border-collapse: collapse; border: none;">
   <!-- ROW 1 -->
   <tr style="border: none;">
