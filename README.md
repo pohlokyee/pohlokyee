@@ -84,6 +84,33 @@
 
 ---
 
+## 📜 Certifications & Achievements
+
+<table border="0" cellpadding="10" cellspacing="0" style="width: 100%; border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <!-- Microsoft Azure -->
+    <td valign="top" style="width: 33%; border: none; padding: 10px;">
+      <h4>☁️ Microsoft Certified</h4>
+      <p><b>Azure Data Fundamentals (DP-900)</b></p>
+      <font size="2" color="#8b949e">Validating cloud data core concepts, analytical storage pipelines, and infrastructure provisioning.</font>
+    </td>
+    <!-- AWS Academy -->
+    <td valign="top" style="width: 34%; border: none; padding: 10px;">
+      <h4>🧡 AWS Academy Graduate</h4>
+      <p><b>Cloud Foundations & Developing</b></p>
+      <font size="2" color="#8b949e">Trained in global infrastructure architecture, security protocols, and building data-driven cloud applications.</font>
+    </td>
+    <!-- Alteryx Designer Core -->
+    <td valign="top" style="width: 33%; border: none; padding: 10px;">
+      <h4>📊 Alteryx Certified</h4>
+      <p><b>Alteryx Designer Core</b></p>
+      <font size="2" color="#8b949e">Certified expertise in data preparation, advanced parsing workflows, and automated analytical processing lines.</font>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 🚀 Featured Engineering Projects
 
 <table border="0" cellpadding="10" cellspacing="0" style="width: 100%; border-collapse: collapse; border: none;">
